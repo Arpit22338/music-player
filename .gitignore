@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+/build/
+
+# Android
+/app/build/
+/local.properties
+/.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Misc
+release.keystore
