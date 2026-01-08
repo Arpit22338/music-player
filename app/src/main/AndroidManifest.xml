@@ -5,7 +5,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="Music Player"
+        android:label="@string/app_name"
         android:theme="@style/Theme.MusicPlayer">
         <activity android:name=".MainActivity">
             <intent-filter>
